@@ -1,0 +1,9 @@
+README.md
+main.py
+setup.py
+githubactivity.egg-info/PKG-INFO
+githubactivity.egg-info/SOURCES.txt
+githubactivity.egg-info/dependency_links.txt
+githubactivity.egg-info/entry_points.txt
+githubactivity.egg-info/requires.txt
+githubactivity.egg-info/top_level.txt
