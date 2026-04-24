@@ -35,3 +35,6 @@ Name: MemberEvent | Repository: DevMoitinho/MovieApp
 📂 Project Structure
 main.py: Contains the API consumption logic and the CLI entry point
 setup.py: Packaging configuration and global command definition
+
+[Project Link](https://roadmap.sh/projects/github-user-activity)
+
